@@ -28,7 +28,7 @@ Execute the program using runserver command.
 
 <html>
     <body>
-        <img src="logo.png">
+        <img src="logo.png" width="500" height="100">
         <table border="2" cellspacing="3">
             <caption>Weekly Timetable-halima(24901005)</caption>
             <tr bgcolor="pink" align="center">
@@ -137,7 +137,7 @@ Execute the program using runserver command.
 
 # OUTPUT
 
-![alt text](<Screenshot 2025-04-23 082319.png>)
+![alt text](<Screenshot 2025-04-28 220915.png>)
 
 
 # RESULT
